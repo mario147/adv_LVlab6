@@ -1,0 +1,4 @@
+6-1.2 - warto dopisaæ nazwê VI w poleceniu
+6-1.4 - Init model a nie Model init, który znajduje siê w MODEL -> API, a nie PLC...
+6-3.3 - Ewentualne podpowiedzi jakie bloczki wstawiæ
+6-3.4 - Update Connecor Pane chyba nieaktualne
